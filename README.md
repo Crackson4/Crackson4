@@ -12,15 +12,13 @@ Programming is also one of my interests. I mainly code in `python` and `C++`.
 
 ### Even Smaller Heading
 
-A lot of things are pretty retarded. Some of these include:
+A lot of things I think are pretty retarded. Some of these include:
 
 - Pronouns
 - Being transgender
 - Thinking that there are more than 2 genders
 - Islam and Atheism
 - Materialism
-- Not knowing the times tables
-- Being retarded 🫠
 
 If you're offended, feel free to contact me.
 
