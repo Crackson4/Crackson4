@@ -6,23 +6,11 @@ And yes, I am asian.
 
 ## Smaller Heading
 
-I'm currently doing tertiary-level mathematics with a focus on calculus. It may sound complicated but it isn't. (Secret flex)
+I'm currently studying tertiary-level mathemetics and computer science. It may sound complicated but it isn't. (Secret flex)
 
-Programming is also one of my interests. I mainly code in `python` and `C++`.
+Programming is my main career interest. I mainly code in `python` and `C++`.
 
-### Even Smaller Heading
-
-A lot of things I think are pretty retarded. Some of these include:
-
-- Pronouns
-- Being transgender
-- Thinking that there are more than 2 genders
-- Islam and Atheism
-- Materialism
-
-If you're offended, feel free to contact me.
-
-#### How Small Can These Headings Get?
+### How Small Can These Headings Get?
 
 Well, that concludes my introduction. If you want to talk, check out my contact information below.
 
